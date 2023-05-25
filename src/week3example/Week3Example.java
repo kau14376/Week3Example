@@ -13,6 +13,8 @@ public class Week3Example {
     /*push steps 1. initilize versioning, .gitconfig file, .gitignore, local repository, commit */
     public static void main(String[] args) {
         System.out.println("learning github operations");
+        System.out.println("learning github pull");
+        // this is the branch
     }
     
 }
